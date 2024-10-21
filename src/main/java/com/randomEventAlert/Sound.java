@@ -1,4 +1,4 @@
-package rea.randomEventAlert;
+package com.randomEventAlert;
 
 public enum Sound {
     HI_GUYS_MAIKERU_HERE("hi_guys_maikeru_here.wav");

@@ -1,4 +1,4 @@
-package rea.randomEventAlert;
+package com.randomEventAlert;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;

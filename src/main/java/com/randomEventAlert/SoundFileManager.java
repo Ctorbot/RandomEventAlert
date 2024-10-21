@@ -1,4 +1,4 @@
-package rea.randomEventAlert;
+package com.randomEventAlert;
 
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.client.RuneLite;

@@ -1,4 +1,4 @@
-package rea.randomEventAlert;
+package com.randomEventAlert;
 
 import com.google.inject.Provides;
 import java.awt.image.BufferedImage;
