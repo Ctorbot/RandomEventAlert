@@ -13,7 +13,7 @@ import java.io.InputStream;
 @Slf4j
 public class SoundEngine {
     @Inject
-    private RamdonEventAlertConfig config;
+    private RandomEventAlertConfig config;
 
     private static final long CLIP_MTIME_UNLOADED = -2;
 
