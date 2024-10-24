@@ -71,11 +71,6 @@ public class RandomEventAlertPlugin extends Plugin
         soundEngine.playClip(Sound.HI_GUYS_MAIKERU_HERE);
 	}
 
-	private boolean isStrangePlant(int npcId)
-	{
-		return npcId == NpcID.STRANGE_PLANT;
-	}
-
     public static final List<Integer> NPCS = new ArrayList<Integer>()
     {
         {
@@ -110,7 +105,6 @@ public class RandomEventAlertPlugin extends Plugin
             add(NpcID.QUIZ_MASTER_6755);
             add(NpcID.DUNCE_6749);
             add(NpcID.SANDWICH_LADY);
-            add(NpcID.STRANGE_PLANT);
             add(NpcID.COUNT_CHECK_12551);
             add(NpcID.COUNT_CHECK_12552);
         }
